@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="vlasova_pr1/vlasova_pr1.csproj" />
+  <Project Path="vlasova_pr1_tests/vlasova_pr1_tests.csproj" />
+</Solution>
